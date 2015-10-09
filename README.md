@@ -14,7 +14,7 @@ using namespace std;
  }
  int main (){
  
-    stars(8);
+    stars(5);
     
    return 0;
    
